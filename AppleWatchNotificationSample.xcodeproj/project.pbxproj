@@ -20,6 +20,7 @@
 		8E2DCE621CC23FB800EB9410 /* ExtensionDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E2DCE611CC23FB800EB9410 /* ExtensionDelegate.swift */; };
 		8E2DCE641CC23FB800EB9410 /* NotificationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E2DCE631CC23FB800EB9410 /* NotificationController.swift */; };
 		8E2DCE661CC23FB800EB9410 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8E2DCE651CC23FB800EB9410 /* Assets.xcassets */; };
+		8E2DCE761CC2527C00EB9410 /* MapInterfaceController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E2DCE751CC2527C00EB9410 /* MapInterfaceController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -83,6 +84,7 @@
 		8E2DCE631CC23FB800EB9410 /* NotificationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationController.swift; sourceTree = "<group>"; };
 		8E2DCE651CC23FB800EB9410 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8E2DCE671CC23FB800EB9410 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8E2DCE751CC2527C00EB9410 /* MapInterfaceController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapInterfaceController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -150,6 +152,7 @@
 			isa = PBXGroup;
 			children = (
 				8E2DCE5F1CC23FB800EB9410 /* InterfaceController.swift */,
+				8E2DCE751CC2527C00EB9410 /* MapInterfaceController.swift */,
 				8E2DCE611CC23FB800EB9410 /* ExtensionDelegate.swift */,
 				8E2DCE631CC23FB800EB9410 /* NotificationController.swift */,
 				8E2DCE651CC23FB800EB9410 /* Assets.xcassets */,
@@ -310,6 +313,7 @@
 			files = (
 				8E2DCE641CC23FB800EB9410 /* NotificationController.swift in Sources */,
 				8E2DCE621CC23FB800EB9410 /* ExtensionDelegate.swift in Sources */,
+				8E2DCE761CC2527C00EB9410 /* MapInterfaceController.swift in Sources */,
 				8E2DCE601CC23FB800EB9410 /* InterfaceController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
